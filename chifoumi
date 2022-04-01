@@ -1,0 +1,15 @@
+créer le jeu du chifoumi (pierre feuille ciseaux)
+
+1 demande à l'utilisateur de choisir entre les 3 possibilités.
+
+2 faire en sorte que le script choisisse aléatoirement uen des 3 possibilités
+
+3 verifier si l'utilisateur a gagné ou perdu
+
+4 afficher le resultat en indiquant les éléments suivants :
+
+-gagné ou perdu
+-afficher le choix de l'utilisateur
+-afficher le choix du script
+
+5 proposer une nouvelle partie
