@@ -103,3 +103,19 @@ if (rValue==="ciseau"
 
     prompt ("perdu")
 }
+
+corrigé
+
+ if (reponse==="pierre"&&randomElement==="ciseau"
+|| reponse==="ciseau"&& randomElement==="feuille"
+|| response==="feuille"&&randomElement==="pierre")
+{ console.log("tu as gagné!")}
+
+else if (reponse===randomElement){
+
+    console.log("egalité!");
+}
+
+else {
+    console.log("Tu as perdu");
+}
